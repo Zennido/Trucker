@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def show_inventory_management(data_manager):
     """Display inventory management interface"""
