@@ -1,0 +1,16 @@
+[
+  {
+    "plate_number": "JV123",
+    "driver_name": "N",
+    "helper_name": "",
+    "route_permits": [],
+    "tanker_size": 0,
+    "vehicle_type": "Tanker",
+    "make_model": "",
+    "year": 2020,
+    "engine_type": "Diesel",
+    "status": "Active",
+    "created_at": "2025-06-09T15:14:18.503562",
+    "id": 1
+  }
+]
